@@ -8,3 +8,6 @@ week6.csv filter=lfs diff=lfs merge=lfs -text
 week7.csv filter=lfs diff=lfs merge=lfs -text
 week8.csv filter=lfs diff=lfs merge=lfs -text
 week9.csv filter=lfs diff=lfs merge=lfs -text
+week10.csv filter=lfs diff=lfs merge=lfs -text
+week11.csv filter=lfs diff=lfs merge=lfs -text
+week12.csv filter=lfs diff=lfs merge=lfs -text
